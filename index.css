@@ -59,5 +59,19 @@ html, body {
 
 .text-box {
     margin-right: 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: white 2px solid;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.submit {
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
